@@ -1,4 +1,4 @@
-# Create and serve `learnr` tutorials usinb Binder
+# Create and serve `learnr` tutorials using Binder
 
 ## Interactive Tutorials for R with `learnr`
 
